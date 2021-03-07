@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>hello-world</title>
+      <link href="/chenjiahong360/2021/03/06/hello-world/"/>
+      <url>/chenjiahong360/2021/03/06/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>欢迎使用 <a href="https://hexo.io/">Hexo</a>！这是一篇预设的贴文. 查看 <a href="https://hexo.io/docs/">帮助文档</a> 获取更多信息。 当您使用 HEXO 遇到任何问题,，您可以在 <a href="https://hexo.io/docs/troubleshooting.html">故障排除</a> 上找到答案，也可以在 <a href="https://github.com/hexojs/hexo/issues">GitHub</a> 上提问。</p><h2 id="快速学习"><a href="#快速学习" class="headerlink" title="快速学习"></a>快速学习</h2><h3 id="发布一篇新贴文"><a href="#发布一篇新贴文" class="headerlink" title="发布一篇新贴文"></a>发布一篇新贴文</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>更多信息: <a href="https://hexo.io/docs/writing.html">发布</a></p><h3 id="运行本地服务器"><a href="#运行本地服务器" class="headerlink" title="运行本地服务器"></a>运行本地服务器</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>更多信息: <a href="https://hexo.io/docs/server.html">服务器</a></p><h3 id="生成静态文件"><a href="#生成静态文件" class="headerlink" title="生成静态文件"></a>生成静态文件</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>更多信息: <a href="https://hexo.io/docs/generating.html">生成</a></p><h3 id="部署到远端服务器"><a href="#部署到远端服务器" class="headerlink" title="部署到远端服务器"></a>部署到远端服务器</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>更多信息: <a href="https://hexo.io/docs/one-command-deployment.html">部署</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
