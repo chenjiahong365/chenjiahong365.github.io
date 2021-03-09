@@ -4,89 +4,11 @@
   
     
     <entry>
-      <title>陈家宏</title>
-      <link href="2021/03/08/%E9%99%88%E5%AE%B6%E5%AE%8F/"/>
-      <url>2021/03/08/%E9%99%88%E5%AE%B6%E5%AE%8F/</url>
-      
-        <content type="html"><![CDATA[<p>my body it hot</p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>2020-3-8</title>
-      <link href="2021/03/08/2020-3-8/"/>
-      <url>2021/03/08/2020-3-8/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>我是谁</title>
-      <link href="2021/03/08/%E6%88%91%E6%98%AF%E8%B0%81/"/>
-      <url>2021/03/08/%E6%88%91%E6%98%AF%E8%B0%81/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>mybolg</title>
-      <link href="2021/03/08/mybolg/"/>
-      <url>2021/03/08/mybolg/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>121212</title>
-      <link href="2021/03/08/121212/"/>
-      <url>2021/03/08/121212/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>4444</title>
-      <link href="2021/03/08/4444/"/>
-      <url>2021/03/08/4444/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>高斯求和分析</title>
       <link href="2021/03/07/%E9%AB%98%E6%96%AF%E6%B1%82%E5%92%8C%E5%88%86%E6%9E%90/"/>
       <url>2021/03/07/%E9%AB%98%E6%96%AF%E6%B1%82%E5%92%8C%E5%88%86%E6%9E%90/</url>
       
-        <content type="html"><![CDATA[<p>女儿不理解高斯求和类似问题（1加到100是会的），我知道女儿没有真正理解，下面用一道题分析一下女儿接触的类似高斯求和的变种题目</p>]]></content>
+        <content type="html"><![CDATA[<p>女儿不理解高斯求和类似问题（1加到100是靠死记硬背的，并没有理解），我知道女儿没有真正理解，下面用一道题分析一下女儿接触的类似高斯求和的变种题目：</p><p>3+4+5+………+53 的累计求和</p><p>1- 确定有多少个数字参与求和</p><p>​     53-3+1=51，得出有51个数字参与求和</p><p>2- 首尾数字两两相加之和为 56，共有 51/2=25.5（取整数 25）组参与求和，求和结果为 56*25=1400</p><p>3- 中间无法参与配对求和的一个数字为 56/2=28</p><p>4- 最后结果为 1400+28=1428</p><p>用 python 编程小程序确定是否正确</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">#a为高斯求和起始数字</span><br><span class="line">a &#x3D; 3</span><br><span class="line">#b为高斯求和末尾数字</span><br><span class="line">b &#x3D; 53</span><br><span class="line">sum &#x3D; 0</span><br><span class="line">for i in range(a,b+1):</span><br><span class="line">    sum &#x3D; sum + i</span><br><span class="line">print(sum)</span><br></pre></td></tr></table></figure><p>运算结果</p><figure class="highlight plain"><figcaption><span>D:/python/python-2/高斯求和.py</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">1428</span><br><span class="line"></span><br><span class="line">进程已结束，退出代码为 0</span><br></pre></td></tr></table></figure><p>说明结论正确</p>]]></content>
       
       
       <categories>
