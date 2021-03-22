@@ -1,3 +1,13 @@
-/* build time:Mon Mar 22 2021 19:29:35 GMT+0800 (中国标准时间)*/
-#local-search-result{position:absolute;background-color:#fff;width:100%}#sidebar .widget .search-form{overflow:visible}#sidebar .widget .search-form input{width:auto}
-/* rebuild by neat */
+#local-search-result {
+    position: absolute;
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+}
+
+#sidebar .widget .search-form {
+    overflow:visible;
+}
+
+#sidebar .widget .search-form input {
+    width: auto;
+}
